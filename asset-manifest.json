@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/texas/static/css/main.8b0db0ad.css",
+    "main.js": "/texas/static/js/main.f507f1c9.js",
+    "static/js/787.cab1faca.chunk.js": "/texas/static/js/787.cab1faca.chunk.js",
+    "index.html": "/texas/index.html",
+    "main.8b0db0ad.css.map": "/texas/static/css/main.8b0db0ad.css.map",
+    "main.f507f1c9.js.map": "/texas/static/js/main.f507f1c9.js.map",
+    "787.cab1faca.chunk.js.map": "/texas/static/js/787.cab1faca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b0db0ad.css",
+    "static/js/main.f507f1c9.js"
+  ]
+}
